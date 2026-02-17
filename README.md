@@ -64,40 +64,63 @@ I like:
 </p>
 
 
-## Selected Projects
+---
 
-### Stockify (PHP)
-#### Status: Released
+## 📦 Selected Projects
+
+---
+
+### 🏪 Stockify (PHP)
+
+<p>
+  <img src="https://img.shields.io/badge/Status-Released-brightgreen"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/>
+</p>
+
 Stock management system with:
-- Role-based permissions
-- Order state control
-- Invoice management
-- Structured backend logic
-- AI integration
+- Role-based permissions  
+- Order state control  
+- Invoice management  
+- Structured backend logic  
+- AI integration  
 
 ---
-### Students Management App (Spring & Java)
-#### Status: In progress
+
+### 🎓 Students Management App (Spring & Java)
+
+<p>
+  <img src="https://img.shields.io/badge/Status-In%20Progress-yellow"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white"/>
+</p>
+
 Students management system featuring:
- - CRUD operations for students entities
- - Automatic absence sheet generation & printing
- - Support for importing .xlsx & .csv files
+- CRUD operations for student entities  
+- Automatic absence sheet generation & printing  
+- Support for importing `.xlsx` & `.csv` files  
 
 ---
 
-### Maze solver (C)
-#### Status: Released
-Maze generator using the origin shift algorithm & solver using the DFS algorithm
+### 🧩 Maze Solver (C)
+
+<p>
+  <img src="https://img.shields.io/badge/Status-Released-brightgreen"/>
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SDL3-4B275F"/>
+</p>
+
+Maze generator using the Origin Shift algorithm  
+Solver using the DFS algorithm  
 
 ---
 
-### Tetris (C)
-#### Status: Released
-Recreation of the popular game Tetris using the SDL3 library and the C language.
+### 🕹️ Tetris (C + SDL3)
 
-## Long-Term Direction
+<p>
+  <img src="https://img.shields.io/badge/Status-Released-brightgreen"/>
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SDL3-4B275F"/>
+</p>
 
-My goal is to become a strong systems & embedded engineer,
-while building scalable backend applications.
-
-I value discipline, clarity, and continuous growth.
+Recreation of the popular game **Tetris** using SDL3 and C.
