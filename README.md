@@ -29,15 +29,6 @@ I like:
 
 ---
 
-## 🚀 Current Focus
-
-- 🌱 Mastering Spring Boot & backend architecture  
-- ⚛️ Expanding into React  
-- 🔧 Deepening C/C++ for systems & embedded engineering  
-- 🏗️ Building real-world projects (not just tutorials)
-
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
@@ -66,7 +57,7 @@ I like:
 
 ---
 
-## 📦 Selected Projects
+## 📦 Projects
 
 ---
 
