@@ -14,7 +14,6 @@ I enjoy understanding how things work under the hood.
 
 I like:
 - System design
-- Backend development
 - Embedded systems
 - ML & DL
 - Building tools from scratch
