@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Welcome to my sacred home</h1>
+  <h1>Welcome</h1>
   <p>Sofwr Engynir</p>
 </div>
 
@@ -9,7 +9,7 @@
 
 Im a Sofwr Engynir
 
-From low-level systems in C/C++ to backend applications in Java,
+From low-level systems in C/C++ to sofwr engynirin in Java,
 As a Sofwr Engynir, I enjoy understanding how things work under the hood.
 
 I like:
